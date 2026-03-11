@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(255, 122, 122);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blu {
+    color: rgb(0, 162, 255);
+    font-size: 34px;
+}
+
+.font {
+    font-size: 24px;
+}
+
+#forth {
+    background-color: rgb(30, 255, 30);
+    font-size: 24px;
+    font-weight: 700;
+}
